@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGradSet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#202329"/>
+      <stop offset="50%" stop-color="#1B1E24"/>
+      <stop offset="100%" stop-color="#272B32"/>
+    </linearGradient>
+    <pattern id="gridPatternSet" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#414650" stroke-opacity="0.25" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="1000" fill="url(#bgGradSet)"/>
+  <rect width="800" height="1000" fill="url(#gridPatternSet)"/>
+  <rect x="24" y="24" width="752" height="952" rx="16" fill="none" stroke="#414650" stroke-width="1.5" stroke-opacity="0.6"/>
+
+  <text x="400" y="80" text-anchor="middle" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="12" font-weight="700" letter-spacing="6" fill="#B9BEC7">SLIQ VEGAS • 2-PIECE DRIP SET</text>
+  <line x1="320" y1="96" x2="480" y2="96" stroke="#ff1e27" stroke-width="2"/>
+
+  <!-- Vector 2-Piece Set Silhouette -->
+  <g transform="translate(200, 150)" stroke="#5A606D" stroke-width="2" fill="#202329" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 140 30 L 260 30 L 340 90 L 310 230 L 270 210 L 270 270 L 130 270 L 130 210 L 90 230 L 60 90 Z" fill="#272B32"/>
+    <path d="M 140 30 Q 200 45 260 30" fill="none" stroke="#717886" stroke-width="2.5"/>
+    <line x1="200" y1="35" x2="200" y2="270" stroke="#ff1e27" stroke-width="3"/>
+    <text x="170" y="100" font-family="'Space Grotesk', sans-serif" font-size="13" font-weight="900" fill="#F5F5F5" stroke="none">SV</text>
+
+    <!-- Bottom Piece -->
+    <rect x="135" y="290" width="130" height="25" rx="4" fill="#30353D" stroke="#5A606D"/>
+    <line x1="195" y1="315" x2="190" y2="340" stroke="#ff1e27" stroke-width="2"/>
+    <line x1="205" y1="315" x2="210" y2="340" stroke="#ff1e27" stroke-width="2"/>
+    <path d="M 135 315 L 120 530 L 175 530 L 195 380 L 205 380 L 225 530 L 280 530 L 265 315 Z" fill="#272B32"/>
+    <line x1="130" y1="325" x2="118" y2="520" stroke="#ff1e27" stroke-width="2"/>
+    <line x1="270" y1="325" x2="282" y2="520" stroke="#ff1e27" stroke-width="2"/>
+    <rect x="120" y="530" width="55" height="18" rx="3" fill="#30353D" stroke="#5A606D"/>
+    <rect x="225" y="530" width="55" height="18" rx="3" fill="#30353D" stroke="#5A606D"/>
+  </g>
+
+  <!-- Status Pill Badge -->
+  <g transform="translate(400, 755)">
+    <rect x="-160" y="-24" width="320" height="48" rx="24" fill="#272B32" stroke="#414650" stroke-width="1.5"/>
+    <circle cx="-120" cy="0" r="4" fill="#ff1e27"/>
+    <text x="-95" y="5" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#F5F5F5">STUDIO SHOT IN PRODUCTION</text>
+  </g>
+
+  <text x="400" y="850" text-anchor="middle" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="15" font-weight="600" fill="#F5F5F5" letter-spacing="3">EDITORIAL ARCHIVE</text>
+  <text x="400" y="880" text-anchor="middle" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="13" fill="#B9BEC7">Streetwear catalogue piece available for order on WhatsApp</text>
+  <text x="400" y="930" text-anchor="middle" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="4" fill="#ff1e27">SLIQ VEGAS • WEAR THE LIFESTYLE</text>
+</svg>

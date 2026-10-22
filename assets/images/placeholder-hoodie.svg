@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGradHoodie" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#202329"/>
+      <stop offset="50%" stop-color="#1B1E24"/>
+      <stop offset="100%" stop-color="#272B32"/>
+    </linearGradient>
+    <pattern id="gridPatternHoodie" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#414650" stroke-opacity="0.25" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="1000" fill="url(#bgGradHoodie)"/>
+  <rect width="800" height="1000" fill="url(#gridPatternHoodie)"/>
+  <rect x="24" y="24" width="752" height="952" rx="16" fill="none" stroke="#414650" stroke-width="1.5" stroke-opacity="0.6"/>
+
+  <text x="400" y="80" text-anchor="middle" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="12" font-weight="700" letter-spacing="6" fill="#B9BEC7">SLIQ VEGAS • HOODIES &amp; SWEATS</text>
+  <line x1="320" y1="96" x2="480" y2="96" stroke="#ff1e27" stroke-width="2"/>
+
+  <!-- Vector Apparel Silhouette -->
+  <g transform="translate(180, 160)" stroke="#5A606D" stroke-width="2" fill="#202329" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 160 80 C 160 20, 220 10, 220 10 C 220 10, 280 20, 280 80 C 280 120, 250 140, 220 140 C 190 140, 160 120, 160 80 Z" fill="#272B32"/>
+    <path d="M 190 70 C 190 35, 220 30, 220 30 C 220 30, 250 35, 250 70 C 250 110, 220 120, 220 120 C 220 120, 190 110, 190 70 Z" fill="#202329" stroke="#717886"/>
+    <path d="M 210 130 Q 205 180 200 220" fill="none" stroke="#ff1e27" stroke-width="2"/>
+    <path d="M 230 130 Q 235 180 240 220" fill="none" stroke="#ff1e27" stroke-width="2"/>
+    <path d="M 160 110 L 40 190 L 80 340 L 130 310 L 130 460 L 310 460 L 310 310 L 360 340 L 400 190 L 280 110 Z" fill="#272B32"/>
+    <path d="M 165 340 L 275 340 L 295 430 L 145 430 Z" fill="#30353D" stroke="#717886"/>
+    <rect x="130" y="460" width="180" height="30" rx="4" fill="#30353D" stroke="#5A606D"/>
+    <rect x="70" y="325" width="25" height="25" rx="3" transform="rotate(-30 80 340)" fill="#30353D" stroke="#5A606D"/>
+    <rect x="345" y="325" width="25" height="25" rx="3" transform="rotate(30 360 340)" fill="#30353D" stroke="#5A606D"/>
+    <circle cx="220" cy="220" r="28" fill="#1B1E24" stroke="#ff1e27" stroke-width="1.5"/>
+    <text x="220" y="226" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="900" fill="#F5F5F5" letter-spacing="2" stroke="none">SV</text>
+  </g>
+
+  <!-- Status Pill Badge -->
+  <g transform="translate(400, 755)">
+    <rect x="-160" y="-24" width="320" height="48" rx="24" fill="#272B32" stroke="#414650" stroke-width="1.5"/>
+    <circle cx="-120" cy="0" r="4" fill="#ff1e27"/>
+    <text x="-95" y="5" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#F5F5F5">STUDIO SHOT IN PRODUCTION</text>
+  </g>
+
+  <text x="400" y="850" text-anchor="middle" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="15" font-weight="600" fill="#F5F5F5" letter-spacing="3">EDITORIAL ARCHIVE</text>
+  <text x="400" y="880" text-anchor="middle" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="13" fill="#B9BEC7">Streetwear catalogue piece available for order on WhatsApp</text>
+  <text x="400" y="930" text-anchor="middle" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="4" fill="#ff1e27">SLIQ VEGAS • WEAR THE LIFESTYLE</text>
+</svg>

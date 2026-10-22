@@ -1,0 +1,7 @@
+# robots.txt for SLIQ VEGAS
+# https://sliqvegas.co.zw/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sliqvegas.co.zw/sitemap.xml
